@@ -8,7 +8,7 @@ const bookManager = () => {
     author: "Random Author",
   });
 
-  let books = ref([]);
+  let books = ref([]);n
 
   const addBook = (book) => {
     // books.value.push(book);
